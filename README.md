@@ -7,6 +7,6 @@ of [University of Florence](https://www.scienze.unifi.it/#).
 # Table of contents
 1. [Graph creation and plotting](NoteBooks/1.Graph_Creation.ipynb)
 2. [Import, Export and .gml format usage](NoteBooks/2.ImportingAndExporting.ipynb)
-3. Centrality Measures
 3. Descriptive statistics
-4. More to add later....
+4. [Simple random graph model](NoteBooks/Simple_Random_Graph_Model.ipynb)
+5. More to add later....
